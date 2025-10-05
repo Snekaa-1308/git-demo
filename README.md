@@ -1,4 +1,4 @@
 # git-demo
 This is a new repository.
 <br>
-Author: Snekaa
+Author: Snekaa Rajaraman
